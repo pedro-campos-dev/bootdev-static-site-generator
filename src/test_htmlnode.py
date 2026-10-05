@@ -1,7 +1,6 @@
 import unittest
 from htmlnode import HTMLNode, LeafNode, ParentNode;
 
-
 class TestHtmlNode(unittest.TestCase):
     def test_none(self):
         node = HTMLNode();

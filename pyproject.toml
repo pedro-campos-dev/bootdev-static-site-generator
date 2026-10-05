@@ -7,9 +7,7 @@ authors = [
     { name = "Pedro Campos", email = "pedro.m@scopicsoftware.com" }
 ]
 requires-python = ">=3.13"
-dependencies = [
-    "prettier>=0.0.7",
-]
+dependencies = []
 
 [project.scripts]
 boot-dev = "boot_dev:main"
